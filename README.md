@@ -1,2 +1,4 @@
 # Logistic-regression
-Classifying the patient is affected by diabetics using Logistic Regression from scratch
+<hr>
+
+This repo contains a jupyter notebook with a logistic regression implementation from scratch.
